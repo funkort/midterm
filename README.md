@@ -9,4 +9,4 @@ description - this is a music responsive "party box." the lights correspond to d
 
 challenges -learning how to use the fft analyzer -getting arduino to communicate with processing via serial data.
 
-link to videos + pictures: https://tinyurl.com/y2kvtz85
+link to videos + pictures: https://bit.ly/37LgqDQ
